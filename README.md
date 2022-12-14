@@ -27,10 +27,10 @@
 
  
 <h1>Estado de GitHub</h1>
-<div align="left">
+<div align="center">
  <a href="https://www.github.com/Dankoh224"><img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=Dankoh224&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
-<div align="right">
+<div align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dankoh224&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <br>
