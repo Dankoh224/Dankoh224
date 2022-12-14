@@ -89,11 +89,11 @@
  <a href="https://www.linkedin.com/in/dankoh224/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
-<h1>Atividade</h1>
+<h1>Actividad</h1>
 <!-- visitors count  -->
 
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/devjosecarlosteles/count.svg" />  
+  <img src="https://profile-counter.glitch.me/Dankoh224/count.svg" />  
 </p>
 
 <!-- github workflow  -->
