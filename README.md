@@ -5,11 +5,15 @@ Anaconda - NumPy - Pandas - Scikit-learn - Matplotlib - Seaborn - MySql - Postgr
 <div align="left">
 <img src="https://img.shields.io/badge/ANACONDA-green?style=for-the-badge&logo=anaconda&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-87CEEB?style=for-the-badge&logo=numpy&logoColor=white" />   
-<img src="https://img.shields.io/badge/Pandas-F7DF1E?style=for-the-badge&logo=pandas&logoColor=414141" />
+<img src="https://img.shields.io/badge/Pandas-blue?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit-learn-orange?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <br/>
- <img src="https://img.shields.io/badge/Scikit-learn-orange?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <br/>
- <img src="https://img.shields.io/badge/Scikit-learn-orange?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <br/>
- <img src="https://img.shields.io/badge/Scikit-learn-orange?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <br/>
+<img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=white"/> <br/>
+<img src="https://img.shields.io/badge/seaborn-256D7B?style=for-the-badge&logo=seaborn&logoColor=white"/> <br/>
+
+<img src="https://img.shields.io/badge/My-Sql-white?style=for-the-badge&logo=mysql&logoColor=FFB74D"/> <br/>
+<img src="https://img.shields.io/badge/PostgreSQL-orange?style=for-the-badge&logo=postgresql&logoColor=white"/> <br/>
+<img src="https://img.shields.io/badge/OracleSQL-orange?style=for-the-badge&logo=oracle&logoColor=white"/> <br/>
+<img src="https://img.shields.io/badge/Tableau-orange?style=for-the-badge&logo=Tableau&logoColor=white"/> <br/>
  
  
  
