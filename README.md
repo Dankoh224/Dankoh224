@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Skills:
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54" height="20" role="img" aria-label="test: ok"><title>test: ok</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="54" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="31" height="20" fill="#555"/><rect x="31" width="23" height="20" fill="#97ca00"/><rect width="54" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="165" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="210">test</text><text x="165" y="140" transform="scale(.1)" fill="#fff" textLength="210">test</text><text aria-hidden="true" x="415" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="130">ok</text><text x="415" y="140" transform="scale(.1)" fill="#fff" textLength="130">ok</text></g></svg>
+![GitHub top language](https://img.shields.io/github/languages/top/Dankoh224/IA_Fundamentals_TzuzulCode?style=for-the-badge)
 Anaconda - NumPy - Pandas - Scikit-learn - Matplotlib - Seaborn - MySql - PostgreSQL - OracleSQL - Tableau
 
 Santiago, Región Metropolitana, Chile
