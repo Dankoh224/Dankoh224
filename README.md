@@ -22,13 +22,15 @@
  <img src="https://img.shields.io/badge/bootstrap-563D7C?&style=for-the-badge&logo=bootstrap&logoColor=white" />
 <div>
 <br>
-<br><br>
-<br><br>
 <br>
+<br>
+
  
 <h1>Estado de GitHub</h1>
-<div>
- <a href="https://www.github.com/Dankoh224"><img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=Dankoh224&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br/>
+<div align="left">
+ <a href="https://www.github.com/Dankoh224"><img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=Dankoh224&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+<div align="right">
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dankoh224&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <br>
