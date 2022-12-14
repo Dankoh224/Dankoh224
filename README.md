@@ -1,8 +1,9 @@
-# ¡Hola! 👋
-## Yo soy Danko y soy Data Scientist Junior de la ciudad de Santiago de Chile 😁 ¡BIENVENIDO a mi GITHUB!
-# Skills:
+<h1>¡Hola! 👋</h1>
+<h2>Yo soy Danko y pretendo obtener mi primer trabajo como Data Scientist Junior 😁 ¡BIENVENIDO a mi GITHUB!</h2>
+<br>
 
 <div align="left">
+ <h1>Skills</h1>
  <img src="https://img.shields.io/badge/ANACONDA-green?style=for-the-badge&logo=anaconda&logoColor=white" />
  <img src="https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=white" />
  <img src="https://img.shields.io/badge/NumPy-87CEEB?style=for-the-badge&logo=numpy&logoColor=white" />   
@@ -18,15 +19,17 @@
  <img src="https://img.shields.io/badge/CSS3-1283e0?&style=for-the-badge&logo=css3&logoColor=white" />
  <img src="https://img.shields.io/badge/bootstrap-563D7C?&style=for-the-badge&logo=bootstrap&logoColor=white" />
 <div>
+<br>
  
 <div>
-<h1>Estado de GitHub:</h1>
+<h1>Estado de GitHub</h1>
  <a href="https://www.github.com/Dankoh224">
  <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=Dankoh224&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dankoh224&layout=compact&langs_count=16&theme=dark"/>
 </div>
+<br>
 
-<h1>Formación y Experiencia:</h1>
+<h1>Formación y Experiencia</h1>
  
 <div>
  
@@ -82,14 +85,23 @@
  <br>
 </div>
  
+ <div>
+  <h1>Acerca de mí</h1>
+ <p>
+  Licenciado en Educación, Profesor de Matemática y Computación de Enseñanza Media, Estudiante de Ingeniería en Informática en Duoc UC. Durante diez años he entregado conocimientos de matemática y programación a más de dos mil estudiantes, tanto en colegios, como preuniversitarios, institutos y universidades. Hoy, mi foco radica principalmente en adquirir conocimientos, capacidades y habilidades para convertirme en Data Scientist y realizar investigaciones de conocimientos de frontera de alto nivel. Hace muchos años que estoy estudiando y trabajando en el área TI, pero hace un año me he visto involucrado fuertemente en el estudio de #Python #MySQL #NumPy #Scikit-Learn #Matplotlib #Seaborn #Tableau y #Github, desarrollando proyectos de manera autónoma. Hoy, mi objetivo principal, es mejorar la calidad de vida de mi familia y de mis dos hijos. Sin embargo, antes de dejar este mundo, desearía aplicar el Machine Learning y la Inteligencia Artificial para publicar investigaciones que permitan que en el futuro, científicos con mejores alcances tecnológicos, puedan realizar avances sustanciales en los conocimientos que posee la humanidad sobre el Autismo.
+ </p>
+ <br>
+</div>
+ 
 <h1>Contactos</h1>
 <div>
  <a href="https://www.facebook.com/danko.valderrama"><img src="https://img.shields.io/badge/facebook-1F456E?style=for-the-badge&logo=facebook&logoColor=white"></a>
  <a href="https://www.instagram.com/danko.h224/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
  <a href="https://www.linkedin.com/in/dankoh224/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
-
-<h1>Actividad</h1>
+<br>
+ 
+<h1>Cantidad de Visitantes</h1>
 <!-- visitors count  -->
 
 <p align="center" >   
@@ -99,6 +111,3 @@
 <!-- github workflow  -->
 
  ![github contribution grid snake animation](https://raw.githubusercontent.com/devjosecarlosteles/devjosecarlosteles/output/github-contribution-grid-snake.svg)
-
-## Acerca de mí...
-### Licenciado en Educación, Profesor de Matemática y Computación de Enseñanza Media, Estudiante de Ingeniería en Informática en Duoc UC. Durante diez años he entregado conocimientos de matemática y programación a más de dos mil estudiantes, tanto en colegios, como preuniversitarios, institutos y universidades. Hoy, mi foco radica principalmente en adquirir conocimientos, capacidades y habilidades para convertirme en Data Scientist y realizar investigaciones de conocimientos de frontera de alto nivel. Hace muchos años que estoy estudiando y trabajando en el área TI, pero hace un año me he visto involucrado fuertemente en el estudio de #Python #MySQL #NumPy #Scikit-Learn #Matplotlib #Seaborn #Tableau y #Github, desarrollando proyectos de manera autónoma. Hoy, mi objetivo principal, es mejorar la calidad de vida de mi familia y de mis dos hijos. Sin embargo, antes de dejar este mundo, desearía aplicar el Machine Learning y la Inteligencia Artificial para publicar investigaciones que permitan que en el futuro, científicos con mejores alcances tecnológicos, puedan realizar avances sustanciales en los conocimientos que posee la humanidad sobre el Autismo.
