@@ -1,7 +1,7 @@
 <img align="left" src="/profile.png">
 
 <h1>¡Hola! 👋</h1>
-<h2>Yo soy Danko y pretendo obtener mi primer trabajo como Data Scientist Junior 😁 Ya te contaré cuando lo logre ¡BIENVENIDO a mi GITHUB!</h2>
+<h2>Yo soy Danko. <br>Pretendo obtener mi primer trabajo como Data Scientist Junior 😁 Ya te contaré cuando lo logre ¡BIENVENIDO a mi GITHUB!</h2>
 <br>
 
 <div align="left">
@@ -23,8 +23,6 @@
 <div>
 <br>
 <br>
-<br>
-
  
 <h1>Estado de GitHub</h1>
 <div align="center">
