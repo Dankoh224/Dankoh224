@@ -1,22 +1,30 @@
 # ¡Hola! 👋
 ## Mi nombre es Danko y soy Data Scientist Junior 😁 ¡BIENVENIDO!
+Anaconda - NumPy - Pandas - Scikit-learn - Matplotlib - Seaborn - MySql - PostgreSQL - OracleSQL - Tableau
 
 <div align="left">
-<div>
-<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />    
+<img src="https://img.shields.io/badge/ANACONDA-green?style=for-the-badge&logo=anaconda&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-87CEEB?style=for-the-badge&logo=numpy&logoColor=white" />   
+<img src="https://img.shields.io/badge/Pandas-F7DF1E?style=for-the-badge&logo=pandas&logoColor=414141" />
+<img src="https://img.shields.io/badge/Scikit-learn-orange?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <br/>
+ <img src="https://img.shields.io/badge/Scikit-learn-orange?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <br/>
+ <img src="https://img.shields.io/badge/Scikit-learn-orange?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <br/>
+ <img src="https://img.shields.io/badge/Scikit-learn-orange?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <br/>
+ 
+ 
+ 
 <img src="https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=414141" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <br/>
+<div>
+
  
- <div align="left">
+<div align="left">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-414141?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/React_Native-414141?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
- </div>
+</div>
 </div>
 <div>
 <h1>Github Status</h1>
@@ -67,7 +75,7 @@ Here are some ideas to get you started:
 -->
 ## Skills:
 ![GitHub top language](https://img.shields.io/github/languages/top/Dankoh224/IA_Fundamentals_TzuzulCode?style=for-the-badge)
-Anaconda - NumPy - Pandas - Scikit-learn - Matplotlib - Seaborn - MySql - PostgreSQL - OracleSQL - Tableau
+
 
 Santiago, Región Metropolitana, Chile
 
