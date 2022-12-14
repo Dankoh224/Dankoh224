@@ -1,5 +1,4 @@
-<img align="left" src="./assets/info.png">
-<img align="left" src="./assets/profile.png">
+<img align="left" src="/profile.png">
 
 <h1>¡Hola! 👋</h1>
 <h2>Yo soy Danko y pretendo obtener mi primer trabajo como Data Scientist Junior 😁 ¡BIENVENIDO a mi GITHUB!</h2>
