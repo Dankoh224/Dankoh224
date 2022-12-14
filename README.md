@@ -84,6 +84,23 @@
  </p>
  <br>
 </div>
+
+<div>
+  <h1>Habilidades Profesionales</h1>
+ <p>
+  -	Habilidad demostrada en analítica, lógica, deducción, matemática, estadística y probabilidad, con foco en la resolución de problemas.<br>
+  -	Entendimiento del negocio y del análisis exploratorio de los datos. Determinación de preguntas semillas. Presentación de insights de alta calidad.<br>
+  -	Identificar y cuantificar problemas para luego presentar dashboards sobre impactos económicos y soluciones estratégicas que permitan la toma de decisiones gerenciales.<br>
+  -	Conocimiento y entendimiento de algoritmos claves de aprendizaje automático para la clasificación, regresión, segmentación, testeos y pruebas de hipótesis de variables.<br>
+  -	Habilidad para gestionar el tiempo, priorizando y realizando tareas múltiples. Habilidad de trabajar bajo presión, adaptándose a plazos establecidos o plazos cambiantes en entornos acelerados.<br>
+  -	Fuerte iniciativa para aprender nuevas tecnologías independientemente.<br>
+  -	Buenas prácticas de programación (Python).<br>
+  -	Excelentes habilidades de comunicación oral y escrita para entregar información técnica a público sin conocimiento específico.<br>
+  -	Excelente relación para trabajar de forma efectiva con personal de diferentes áreas funcionales.<br>
+  -	Nivel básico de escritura y habla en inglés y disposición a perfeccionarlo.
+ </p>
+ <br>
+</div>
  
  <div>
   <h1>Acerca de mí</h1>
@@ -93,7 +110,7 @@
  <br>
 </div>
  
-<h1>Contactos</h1>
+<h1>Contacto</h1>
 <div>
  <a href="https://www.facebook.com/danko.valderrama"><img src="https://img.shields.io/badge/facebook-1F456E?style=for-the-badge&logo=facebook&logoColor=white"></a>
  <a href="https://www.instagram.com/danko.h224/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
