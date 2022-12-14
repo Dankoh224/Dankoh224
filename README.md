@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Danko Valderrama
+| Data Scientist |
+Anaconda - NumPy - Pandas - Scikit-learn Matplotlib - Seaborn - MySql -PostgreSQL - OracleSQL - Tableau
