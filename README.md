@@ -1,24 +1,22 @@
 # ¡Hola! 👋
 ## Mi nombre es Danko y soy Data Scientist Junior 😁 ¡BIENVENIDO!
-Anaconda - NumPy - Pandas - Scikit-learn - Matplotlib - Seaborn - MySql - PostgreSQL - OracleSQL - Tableau
+### Skills:
 
 <div align="left">
-<img src="https://img.shields.io/badge/ANACONDA-green?style=for-the-badge&logo=anaconda&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-87CEEB?style=for-the-badge&logo=numpy&logoColor=white" />   
-<img src="https://img.shields.io/badge/Pandas-blue?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit-learn-orange?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <br/>
-<img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=white"/> <br/>
-<img src="https://img.shields.io/badge/seaborn-256D7B?style=for-the-badge&logo=seaborn&logoColor=white"/> <br/>
-
-<img src="https://img.shields.io/badge/My-Sql-white?style=for-the-badge&logo=mysql&logoColor=FFB74D"/> <br/>
-<img src="https://img.shields.io/badge/PostgreSQL-orange?style=for-the-badge&logo=postgresql&logoColor=white"/> <br/>
-<img src="https://img.shields.io/badge/OracleSQL-orange?style=for-the-badge&logo=oracle&logoColor=white"/> <br/>
-<img src="https://img.shields.io/badge/Tableau-orange?style=for-the-badge&logo=Tableau&logoColor=white"/> <br/>
- 
- 
- 
-<img src="https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white" />
+ <img src="https://img.shields.io/badge/ANACONDA-green?style=for-the-badge&logo=anaconda&logoColor=white" />
+ <img src="https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=white" />
+ <img src="https://img.shields.io/badge/NumPy-87CEEB?style=for-the-badge&logo=numpy&logoColor=white" />   
+ <img src="https://img.shields.io/badge/Pandas-3944BC?style=for-the-badge&logo=pandas&logoColor=white" />
+ <img src="https://img.shields.io/badge/Scikitlearn-orange?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+ <img src="https://img.shields.io/badge/seaborn-256D7B?style=for-the-badge&logo=seaborn&logoColor=white"/> <br/>
+ <img src="https://img.shields.io/badge/MySql-016064?style=for-the-badge&logo=mysql&logoColor=white"/>
+ <img src="https://img.shields.io/badge/PostgreSQL-1F456E?style=for-the-badge&logo=postgresql&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/OracleSQL-F80F00?style=for-the-badge&logo=oracle&logoColor=white"/> <br/>
+ <img src="https://img.shields.io/badge/Tableau-1F456E?style=for-the-badge&logo=Tableau&logoColor=white"/> <br/>
+ <img src="https://img.shields.io/badge/HTML5-e06b12?style=for-the-badge&logo=html5&logoColor=white" />
+ <img src="https://img.shields.io/badge/CSS3-1283e0?&style=for-the-badge&logo=css3&logoColor=white" />
+ <img src="https://img.shields.io/badge/bootstrap-563D7C?&style=for-the-badge&logo=bootstrap&logoColor=white" />
 <div>
 
  
