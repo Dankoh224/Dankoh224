@@ -24,7 +24,6 @@
  <img src="https://img.shields.io/badge/bootstrap-563D7C?&style=for-the-badge&logo=bootstrap&logoColor=white" />
 <div>
 <br>
-<br>
  
 <h1>Estado de GitHub</h1>
 <div align="center">
