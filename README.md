@@ -23,7 +23,6 @@
  <img src="https://img.shields.io/badge/CSS3-1283e0?&style=for-the-badge&logo=css3&logoColor=white" />
  <img src="https://img.shields.io/badge/bootstrap-563D7C?&style=for-the-badge&logo=bootstrap&logoColor=white" />
 <div>
-<br>
  
 <h1>Estado de GitHub</h1>
 <div align="center">
