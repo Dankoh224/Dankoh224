@@ -18,7 +18,7 @@
  <img src="https://img.shields.io/badge/OracleSQL-F80F00?style=for-the-badge&logo=oracle&logoColor=white"/> <br/>
  <img src="https://img.shields.io/badge/Tableau-1F456E?style=for-the-badge&logo=Tableau&logoColor=white"/> <br/>
  <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white"/>
- <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white"/> <br/>
+ <img src="https://img.shields.io/badge/Github-0A0A0A?style=for-the-badge&logo=github&logoColor=white"/> <br/>
  <img src="https://img.shields.io/badge/HTML5-e06b12?style=for-the-badge&logo=html5&logoColor=white" />
  <img src="https://img.shields.io/badge/CSS3-1283e0?&style=for-the-badge&logo=css3&logoColor=white" />
  <img src="https://img.shields.io/badge/bootstrap-563D7C?&style=for-the-badge&logo=bootstrap&logoColor=white" />
