@@ -1,7 +1,7 @@
 <img align="left" src="/profile.png">
 
 <h1>¡Hola! 👋</h1>
-<h2>Yo soy Danko. <br>Pretendo obtener mi primer trabajo como Data Scientist Junior 😁 Ya te contaré cuando lo logre ¡BIENVENIDO a mi GITHUB!</h2>
+<h2>Yo soy Danko. <br>Pretendo obtener mi primer trabajo como Data Scientist 😁 Ya te contaré cuando lo logre ¡BIENVENIDO a mi GITHUB!</h2>
 <br>
 
 <div align="left">
@@ -48,7 +48,7 @@
   - Inferencia estadística: estadístico t, pvalor, anova, matrices de confusión, pruebas de hipótesis. <br>
   - Herramientas de visualización: Tableau. <br>
   - Diseño de dashboards. <br>
-  - Herramientas de comunicación y trabajo en equipo: GitHub.
+  - Herramientas de comunicación y trabajo en equipo: Git & GitHub.
  </p>
  <br>
 </div>
