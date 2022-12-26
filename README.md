@@ -101,7 +101,6 @@
   -	Buenas prácticas de programación (Python).<br>
   -	Excelentes habilidades de comunicación oral y escrita para entregar información técnica a público sin conocimiento específico.<br>
   -	Excelente relación para trabajar de forma efectiva con personal de diferentes áreas funcionales.<br>
-  -	Nivel básico de escritura y habla en inglés y disposición a perfeccionarlo.
  </p>
  <br>
 </div>
