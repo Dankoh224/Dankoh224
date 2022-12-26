@@ -78,7 +78,7 @@
  
  <b>Estudiante de Ingeniería en Informática</b>
  <p>
-  Duoc UC · Jornada completa<br>
+  Duoc UC · Jornada vespertina<br>
   Marzo 2022 - actualidad <br>
   - Bases de datos relacionales: creación de bases de datos, modelos ER extendidos, normalizaciones, operaciones CRUD en OracleSQL, queries. <br>
   - Diseño y gestion de requisitos: interfaces de usuarios, problemas de contexto objetivo, actores y técnicas y KickOff, definición de soluciones, tipos y clasificación de requerimientos, casos de uso, herramientas de planificación, documentación de requisitos. <br>
