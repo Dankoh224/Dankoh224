@@ -92,15 +92,15 @@
 <div>
   <h1>Habilidades Profesionales</h1>
  <p>
-  -	Habilidad demostrada en analítica, lógica, deducción, matemática, estadística y probabilidad, con foco en la resolución de problemas.<br>
-  -	Entendimiento del negocio y del análisis exploratorio de los datos. Determinación de preguntas semillas. Presentación de insights de alta calidad.<br>
-  -	Identificar y cuantificar problemas para luego presentar dashboards sobre impactos económicos y soluciones estratégicas que permitan la toma de decisiones gerenciales.<br>
-  -	Conocimiento y entendimiento de algoritmos claves de aprendizaje automático para la clasificación, regresión, segmentación, testeos y pruebas de hipótesis de variables.<br>
-  -	Habilidad para gestionar el tiempo, priorizando y realizando tareas múltiples. Habilidad de trabajar bajo presión, adaptándose a plazos establecidos o plazos cambiantes en entornos acelerados.<br>
-  -	Fuerte iniciativa para aprender nuevas tecnologías independientemente.<br>
-  -	Buenas prácticas de programación (Python).<br>
-  -	Excelentes habilidades de comunicación oral y escrita para entregar información técnica a público sin conocimiento específico.<br>
-  -	Excelente relación para trabajar de forma efectiva con personal de diferentes áreas funcionales.<br>
+ - Habilidad demostrada en analítica, lógica, deducción, matemática, estadística y probabilidad, con foco en la resolución de problemas. <br>
+ - Entendimiento de algunos tipos de negocios (retención de personal, segmentación de clientes, predicción de ventas). Comprensión del EDA. Creación y presentación de preguntas semillas e insights de calidad. <br>
+ - Habilidad para presentar la información de los insights, mediante una buena comunicación y a buenas prácticas relacionales y de cooperación. <br>
+ -	Capacidad de pensar de manera abstracta, sistemática y crítica, para generar estrategias que mejoren las tomas de decisiones. <br>
+ -	Buen conocimiento y entendimiento de algoritmos clave de Machine Learning. Ejemplo: regresión logística y lineal, bosques aleatorios, clustering, reducción de dimensionalidad (PCA), pruebas de hipótesis A/B, train/test, redes neuronales artificiales, autoencode. <br>
+ -	Capacidad de generar dashboards agudos y objetivos que apunten a generar valor a una empresa. <br>
+ -	Habilidad para gestionar el tiempo, priorizando una tarea o realizando tareas múltiples. Habilidad para trabajar en plazos establecidos y en plazos cambiantes. Resiliente. Adaptativo. <br>
+ -	Gusto por la matemática, la programación, la investigación y la búsqueda de conocimiento. Postulo a un doctorado en Data Science.
+<br>
  </p>
  <br>
 </div>
