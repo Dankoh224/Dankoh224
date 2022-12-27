@@ -38,38 +38,44 @@
 <div>
  
  <b>Estudiante Bootcamp Data Science</b>
- <p> 
+ 
+ <p>
   Tzuzul Code · Curso intensivo de IA, Data analytics, Machine Learning y Visualización de Datos <br>
   Septiembre 2022 - diciembre 2022 <br>
-  - Fundamentos de Base de Datos: Operaciones CRUD, queries avanzadas (subqueries, CTEs), diseño de modelos de datos. <br>
-  - Fundamentos de codificación Python: condicionales, bucles, funciones y POO en Python. <br>
-  - Python Data Analytics: NumPy, Pandas, Matpotlib, Seaborn. <br>
-  - Fundamentos de Inteligencia Artificial: Scikit-Learn y algoritmos de Machine Learning. <br>
-  - Inferencia estadística: estadístico t, pvalor, anova, matrices de confusión, pruebas de hipótesis. <br>
-  - Herramientas de visualización: Tableau. <br>
-  - Diseño de dashboards. <br>
-  - Herramientas de comunicación y trabajo en equipo: Git & GitHub.
+  <ul>
+  <li>Fundamentos de Base de Datos: Operaciones CRUD, queries avanzadas (subqueries, CTEs), diseño de modelos de datos.</li>
+  <li>Fundamentos de codificación Python: condicionales, bucles, funciones y POO en Python.</li>
+  <li>Python Data Analytics: NumPy, Pandas, Matpotlib, Seaborn.</li>
+  <li>Fundamentos de Inteligencia Artificial: Scikit-Learn y algoritmos de Machine Learning. </li>
+  <li>Inferencia estadística: estadístico t, pvalor, anova, matrices de confusión, pruebas de hipótesis.</li>
+  <li>Herramientas de visualización: Tableau.</li>
+  <li>Diseño de dashboards.</li>
+  <li>Herramientas de comunicación y trabajo en equipo: Git & GitHub.</li>
+  </ul>
  </p>
  <br>
 </div>
  
 <div>
  
- <b>Data Engineer Google Cloud Skills Boost</b>
+ <b>Estudiante de Data Engineer Google Cloud Skills Boost</b>
+ 
  <p>
   Desafío todo Latam a Google Cloud · Curso intensivo de Ingeniería de Datos en la nube<br>
   Agosto 2022 - actualidad <br>
-  - Big Data and Machine Learning on Google Cloud. <br>
-  - Data Engineering for Streaming Data. <br>
-  - Big Data with BigQuery. <br>
-  - Machine Learning Options on Google Cloud.
-  - Options to build ML models. <br>
-  - Pre-built APIs. <br>
-  - AutoML. <br>
-  - Custom training. <br>
-  - Vertex AI. <br>
-  - AI Solutions. <br>
-  - The Machine Learning Workflow with Vertex AI.
+  <ul>
+  <li>Big Data and Machine Learning on Google Cloud.</li>
+  <li>Data Engineering for Streaming Data.</li>
+  <li>Big Data with BigQuery.</li>
+  <li>Machine Learning Options on Google Cloud.</li>
+  <li>Options to build ML models.</li>
+  <li>Pre-built APIs.</li>
+  <li>AutoML.</li>
+  <li>Custom training.</li>
+  <li>Vertex AI.</li>
+  <li>AI Solutions.</li>
+  <li>The Machine Learning Workflow with Vertex AI.</li>
+  </ul>
  </p>
  <br>
 </div>
@@ -80,11 +86,12 @@
  <p>
   Duoc UC · Jornada vespertina<br>
   Marzo 2022 - actualidad <br>
-  - Bases de datos relacionales: creación de bases de datos, modelos ER extendidos, normalizaciones, operaciones CRUD en OracleSQL, queries. <br>
-  - Diseño y gestion de requisitos: interfaces de usuarios, problemas de contexto objetivo, actores y técnicas y KickOff, definición de soluciones, tipos y clasificación de requerimientos, casos de uso, herramientas de planificación, documentación de requisitos. <br>
-  - Python: conceptos básicos de la programación. <br>
-  - Desarrollo Web nivel básico: Html5 - CSS3 - Bootstrap. <br>
-  - Inglés nivel básico: verb be, wh-and How questions with be, a/an singular and plural nouns, possessive adjectives, simple present, wh-questions, adverbs of frequency, word order in questions, can/can't, present continuous, there is/there are, simple past: be/regular verbs/do, get, go, have. <br>
+  <ul>
+  <li>Bases de datos relacionales: creación de bases de datos, modelos ER extendidos, normalizaciones, operaciones CRUD en OracleSQL, queries.</li>
+  <li>Diseño y gestion de requisitos: interfaces de usuarios, problemas de contexto objetivo, actores y técnicas y KickOff, definición de soluciones, tipos y clasificación de requerimientos, casos de uso, herramientas de planificación, documentación de requisitos. </li>
+  <li>Python: conceptos básicos de la programación.</li>
+  <li>Desarrollo Web: Html5 - CSS3 - Bootstrap. </li>
+  <li>Inglés básico: verb be, wh-and How questions with be, a/an singular and plural nouns, possessive adjectives, simple present, wh-questions, adverbs of frequency, word order in questions, can/can't, present continuous, there is/there are, simple past: be/regular verbs/do, get, go, have. </li>
  </p>
  <br>
 </div>
@@ -92,14 +99,16 @@
 <div>
   <h1>Habilidades Profesionales</h1>
  <p>
- - Habilidad demostrada en analítica, lógica, deducción, matemática, estadística y probabilidad, con foco en la resolución de problemas. <br>
- - Entendimiento de algunos tipos de negocios (retención de personal, segmentación de clientes, predicción de ventas). Comprensión del EDA. Creación y presentación de preguntas semillas e insights de calidad. <br>
- - Habilidad para presentar la información de los insights, mediante una buena comunicación y a buenas prácticas relacionales y de cooperación. <br>
- -	Capacidad de pensar de manera abstracta, sistemática y crítica, para generar estrategias que mejoren las tomas de decisiones. <br>
- -	Buen conocimiento y entendimiento de algoritmos clave de Machine Learning. Ejemplo: regresión logística y lineal, bosques aleatorios, clustering, reducción de dimensionalidad (PCA), pruebas de hipótesis A/B, train/test, redes neuronales artificiales, autoencode. <br>
- -	Capacidad de generar dashboards agudos y objetivos que apunten a generar valor a una empresa. <br>
- -	Habilidad para gestionar el tiempo, priorizando una tarea o realizando tareas múltiples. Habilidad para trabajar en plazos establecidos y en plazos cambiantes. Resiliente. Adaptativo. <br>
- -	Gusto por la matemática, la programación, la investigación y la búsqueda de conocimiento. Postulo a un doctorado en Data Science.
+  <ul>
+  <li>Habilidad demostrada en analítica, lógica, deducción, matemática, estadística y probabilidad, con foco en la resolución de problemas.</li>
+  <li>Entendimiento de algunos tipos de negocios (retención de personal, segmentación de clientes, predicción de ventas). Comprensión del EDA. Creación y presentación de preguntas semillas e insights de calidad.</li>
+  <li>Habilidad para presentar la información de los insights, mediante una buena comunicación y a buenas prácticas relacionales y de cooperación.</li>
+  <li>Capacidad de pensar de manera abstracta, sistemática y crítica, para generar estrategias que mejoren las tomas de decisiones.</li>
+  <li>Buen conocimiento y entendimiento de algoritmos clave de Machine Learning. Ejemplo: regresión logística y lineal, bosques aleatorios, clustering, reducción de dimensionalidad (PCA), pruebas de hipótesis A/B, train/test, redes neuronales artificiales, autoencode. </li>
+  <li>Capacidad de generar dashboards agudos y objetivos que apunten a generar valor a una empresa.</li>
+  <li>Habilidad para gestionar el tiempo, priorizando una tarea o realizando tareas múltiples. Habilidad para trabajar en plazos establecidos y en plazos cambiantes. Resiliente. Adaptativo. </li>
+  <li>Gusto por la matemática, la programación, la investigación y la búsqueda de conocimiento. Postulo a un doctorado en Data Science.</li>
+  </ul>
 <br>
  </p>
  <br>
