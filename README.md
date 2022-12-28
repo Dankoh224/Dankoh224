@@ -1,4 +1,4 @@
-<img align="left" src="/profile.png" width="600" height="800">
+<img align="left" src="/profile.png" width="500" height="700">
 
 <h1>¡Hola! 👋</h1>
 <h2>Yo soy Danko. <br>Pretendo obtener mi primer trabajo como Data Scientist 😁 Ya te contaré cuando lo logre ¡BIENVENIDO a mi GITHUB!</h2>
