@@ -2,7 +2,7 @@
 
 <h1>¡Hola! 👋</h1>
 <h2>Yo soy Danko. <br>Pretendo obtener mi primer trabajo como Data Scientist 😁 Ya te contaré cuando lo logre ¡BIENVENIDO a mi GITHUB!</h2>
-<h3>Pasa por mi <a href="https://github.com/Dankoh224/portafolio">portafolio</a>.</h3>
+<h3>Ve mi <a href="https://github.com/Dankoh224/portafolio">portafolio</a> 👀.</h3>
 
 <div align="left">
  <h1>Skills</h1>
