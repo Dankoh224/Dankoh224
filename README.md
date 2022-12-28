@@ -61,7 +61,7 @@
  <b>Estudiante de Machine Learning Engineer Google Cloud Skills Boost</b>
  
  <p>
-  Desafío todo Latam a Google Cloud · Curso intensivo de Ingeniería de Datos en la nube<br>
+  Desafío todo Latam a Google Cloud · Curso intensivo de Machine Learning en la nube<br>
   Agosto 2022 - actualidad <br>
   <ul>
   <li>Big Data and Machine Learning on Google Cloud.</li>
