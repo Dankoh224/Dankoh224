@@ -182,8 +182,6 @@
  <a href="https://www.linkedin.com/in/dankoh224/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="https://github.com/Dankoh224/portafolio"><img src="https://img.shields.io/badge/Mi portafolio-0A0A0A?style=for-the-badge&logo=github&logoColor=white" /></a>
  <a href="https://wa.me/56957657641?text=Cont%C3%A1ctame%20en%20WhatsApp"><img src="https://img.shields.io/badge/whatsapp-1F3A3D?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-
- https://wa.me/56957657641?text=Cont%C3%A1ctame%20en%20WhatsApp
 </div>
 <br>
  
