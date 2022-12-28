@@ -58,7 +58,7 @@
  
 <div>
  
- <b>Estudiante de Data Engineer Google Cloud Skills Boost</b>
+ <b>Estudiante de Machine Learning Engineer Google Cloud Skills Boost</b>
  
  <p>
   Desafío todo Latam a Google Cloud · Curso intensivo de Ingeniería de Datos en la nube<br>
