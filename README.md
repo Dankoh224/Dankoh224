@@ -80,9 +80,10 @@
  <br>
 </div>
  
-<div>
+<div> 
  
  <b>Estudiante de Ingeniería en Informática</b>
+ 
  <p>
   Duoc UC · Jornada vespertina<br>
   Marzo 2022 - actualidad <br>
@@ -92,6 +93,55 @@
   <li>Python: conceptos básicos de la programación.</li>
   <li>Desarrollo Web: Html5 - CSS3 - Bootstrap. </li>
   <li>Inglés básico: verb be, wh-and How questions with be, a/an singular and plural nouns, possessive adjectives, simple present, wh-questions, adverbs of frequency, word order in questions, can/can't, present continuous, there is/there are, simple past: be/regular verbs/do, get, go, have. </li>
+ </p>
+</div>
+<br>
+ 
+<div> 
+ 
+ <b>Licenciado en Educación Matemática</b>
+ 
+ <p>
+  Universidad San Sebastián · Jornada diurna<br>
+  Marzo 201 - enero 2015 <br>
+  
+  Área matemática:  <br>
+  <ul>
+   <li>Algebra básica</li>
+   <li>Sistemas numéricos</li>
+   <li>Geometría y trigonometría</li>
+   <li>Álgebra de funciones</li>
+   <li>Fundamentos estructurantes</li>
+   <li>Transformaciones y lugares geométricos</li>
+   <li>Geometría analítica en R2</li>
+   <li>Cálculo diferencial</li>
+   <li>Geometría en el espacio</li>
+   <li>Matemática financiera</li>
+   <li>Cálculo Integral</li>
+   <li>Cálculo multivariable</li>
+   <li>Vectores y geometría en R3</li>
+   <li>Estructuras algebraicas</li>
+   <li>Ecuaciones diferenciales</li>
+   <li>Estadística y probabilidad</li>
+   <li>Estadística inferencial</li>
+   <li>Matemática aplicada a las ciencias</li>
+   <li>Tópicos de matemática contemporánea</li>
+  </ul>
+ 
+  Área educación:
+  <ul>
+   <li>Desafíos de la educación actual</li>
+   <li>Aprendiaje y desarrollo humano</li>
+   <li>Planificación del proceso de aprendizaje</li>
+   <li>Aprendizaje, diversidad y metacognición</li>
+   <li>Evaluación del proceso de aprendizaje</li>
+   <li>Fundamentos de la didáctica de la matemática</li>
+   <li>Factores psicológicos y sociales del aprendizaje escolar</li>
+   <li>Gestión educacional y liderazgo</li>
+   <li>Construcción didáctica del conocimiento matemático</li>
+   <li>Persona humana y sociedad</li>
+   <li>Metodología de la investigación</li>
+  </ul>
  </p>
  <br>
 </div>
@@ -117,8 +167,10 @@
  <div>
   <h1>Acerca de mí</h1>
  <p>
-  Licenciado en Educación, Profesor de Matemática y Computación de Enseñanza Media, Estudiante de
-Ingeniería en Informática en Duoc UC. Durante diez años he entregado conocimientos de matemática y programación a más de dos mil estudiantes, tanto en colegios, como preuniversitarios, institutos y universidades. Hoy, mi foco radica principalmente en adquirir conocimientos, capacidades y habilidades para convertirme en Data Scientist y realizar investigaciones de conocimientos de frontera de alto nivel. Hace muchos años que estoy estudiando y trabajando en el área TI, pero hace un año me he visto involucrado fuertemente en el estudio de #Python #MySQL #NumPy #Scikit-Learn #Matplotlib #Seaborn #Tableau y #Git, desarrollando proyectos de manera autónoma. Hoy, mi objetivo principal, es mejorar la calidad de vida de mi familia y de mis dos hijos. Sin embargo, antes de dejar este mundo, desearía aplicar el Machine Learning y la Inteligencia Artificial para publicar investigaciones que permitan avances sustanciales en el futuro. Me gustaría investigar y descubrir cosas positivas en torno al autismo.
+  Hola. Mi nombre es Danko y soy licenciado en educación, además de ser docente de matemática, estadística y programación hace ya diez años.<br>
+  He realizado clases en enseñanza media, preuniversitarios, institutos y universidades, sin embargo, hoy soy estudiante de ingeniería en informática, también estudio con beca en un bootcamp de data science, estudio para certificarme como machine learning engineer en google cloud y desarrollo proyectos de machine learning de manera autónoma para potenciar los skills tecnológicos que he aprendido.<br>
+ Actualmente, mi foco está en adquirir conocimientos, capacidades y habilidades para convertirme en data scientist, obtener mi primer trabajo y realizar investigaciones de alto nivel, aunque mi objetivo principal es mejorar la calidad de vida de mi familia y de mis dos hijos.<br>
+ Espero dejar en este mundo investigaciones de alto impacto, que beneficien concretamente, diversas áreas de nuestra sociedad.
  </p>
  <br>
 </div>
