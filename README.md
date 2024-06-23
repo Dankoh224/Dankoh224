@@ -1,7 +1,7 @@
 <img align="left" src="/profile.png" width="450" height="587">
 
 <h1>¡Hola! 👋</h1>
-<h2>Yo soy Danko. <br>Pretendo obtener mi primer trabajo como Data Scientist 😁 Ya te contaré cuando lo logre ¡BIENVENIDO a mi GITHUB!</h2>
+<h2>Mi nombre es Danko. <br>Soy Data Scientist, Co-Fundador y Director de Inteligencia Artificial de JhedAI, empresa I+D+i de IA 😁 ¡BIENVENIDO a mi GITHUB!</h2>
 <h3>Ve mi <a href="https://github.com/Dankoh224/portafolio">portafolio</a> 👀.</h3>
 
 <div align="left">
