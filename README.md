@@ -36,10 +36,19 @@
  <div>
   <h1>Acerca de mí</h1>
  <p>
-  Hola. Mi nombre es Danko y soy licenciado en educación, además de ser docente de matemática, estadística y programación hace ya diez años.<br>
-  He realizado clases en enseñanza media, preuniversitarios, institutos y universidades, sin embargo, hoy soy estudiante de ingeniería en informática, también estudio con beca en un bootcamp de data science, estudio para certificarme como machine learning engineer en google cloud y desarrollo proyectos de machine learning de manera autónoma para potenciar los skills tecnológicos que he aprendido.<br>
- Actualmente, mi foco está en adquirir conocimientos, capacidades y habilidades para convertirme en data scientist, obtener mi primer trabajo y realizar investigaciones de alto nivel, aunque mi objetivo principal es mejorar la calidad de vida de mi familia y de mis dos hijos.<br>
- Espero dejar en este mundo investigaciones de alto impacto, que beneficien concretamente, diversas áreas de nuestra sociedad.
+  ¡Hola! 👋
+
+Soy Danko, un loco apasionado por los datos 📊, un admirador de las matemáticas ➕➖ y un divulgador de conocimiento innato🏫.
+
+Desde que recuerdo, mi motivación siempre la he dirigido a aprender, me gusta descubrir, leer, calcular, sobre cualquier cosa, me gusta, lo disfruto. Además, desde muy joven, ya sea porque me lo pedían o porque lo ofrecía, ayudé a otros gracias a mi conocimiento 📚. Hoy, me encuentro también en eso, fomentando la transformación digital 💡 y la integración de tecnologías avanzadas como el Aprendizaje Automático y la Inteligencia Artificial 🤖, en distintos sectores industriales de Chile y Latino América.
+
+Para lograr este objetivo, trabajo en una iniciativa llamada Catapulta DataTech 🚀, un lugar para quienes tengan conocimientos de Machine Learning y para gente que quiera ser desafiado en este mundillo. Además, me desempeño en el cargo de CDO & CAIO en IAprendo, startup que se alinea 100% con mis ideales. En mis trabajos, lucho arduamente para democratizar la Inteligencia Artificial en toda América Latina 🌎.
+
+Mi impetú por aprender, además de mis habilidades en matemática y en el análisis de datos, me ha abierto una posibilidad para poder conocer a las industrias y poder comprender sus dolores, ya sea en la industria de la salud 🏥, de la banca 💳, el retail 🛍️, la minería ⛏️, o la manufactura 🏭, poder aplicar Machine Learning, es literalmente un hecho. Esto, debo comentarlo, es algo que en realidad me emociona un montón 😊, además de hacerme sentir profundamente agradecido a la vida por ser parte de esta revolución industrial 🙏.
+
+Por último, me considero un innovador y un líder por naturaleza. Esto es algo que me gusta mucho de mi, ya que me ha posicionado como un activo valioso en cada lugar que ha aprovechado mis cualidades 👨‍🎓.
+
+Si quieres saber más sobre mí, si me necesitas para alguna colaboración o si derechamente quieres que lidere tu proyecto de Machine Learning, contáctame por este medio, escribe a mi correo 📧, o si gustas, podemos compartir un café ☕, unas hamburguesas con papas fritas 🍔🍟 o lo que gustes.
  </p>
  <br>
 </div>
